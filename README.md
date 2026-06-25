@@ -51,7 +51,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajesh5041&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajesh5041&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh5041&layout=compact&theme=tokyonight)
 ---
 
 ## 🎯 Mission Status
